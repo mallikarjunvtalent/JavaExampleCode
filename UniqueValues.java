@@ -24,7 +24,9 @@ public class UniqueValues {
 			}
 		}
 		System.out.println(builder);
+
 		System.out.println(builder.charAt(0));
+System.out.println(builder.charAt(0));
 
 	}
 
